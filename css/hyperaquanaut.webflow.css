@@ -413,6 +413,11 @@ figcaption {
   align-self: center;
 }
 
+.featurebutton {
+  width: 30%;
+  margin-left:20%;
+}
+
 .button {
   display: block;
   margin-top: 63px;
