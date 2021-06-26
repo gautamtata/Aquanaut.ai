@@ -28,7 +28,7 @@ body {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  background-color: #adcfec;
+  background: linear-gradient(to right, #4ca1af, #c4e0e5);
   font-family: 'DM Sans', sans-serif;
   color: #3b4555;
   font-size: 18px;
