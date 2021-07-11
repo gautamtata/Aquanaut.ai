@@ -446,6 +446,7 @@ figcaption {
   font-size: 18px;
   line-height: 115%;
   font-weight: 500;
+  align-items:center;
 }
 
 .button:hover {
